@@ -19,7 +19,7 @@ Filled missing values with column averages (<15 missing values total)
 Normalized features to handle outliers
 Engineered new features where helpful
 Selected most important features using correlation analysis and feature importance
-Split: 80% train / 10% validation / 10% test
+Split: 80% train 20% test
 
 
 Models
