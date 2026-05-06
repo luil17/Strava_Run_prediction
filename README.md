@@ -2,7 +2,7 @@
 Predicting race finish times from personal running history using Strava data and machine learning.
 
 The Problem
-Many runners want to know if their training is on track. This project uses my historical training data to predict how long it will take to finish a race.
+This project uses my historical training data to predict how long it will take to finish a race.
 
 Dataset
 
